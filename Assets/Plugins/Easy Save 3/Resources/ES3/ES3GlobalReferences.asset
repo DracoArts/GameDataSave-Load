@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6b16dc7c203450459bb86e24305f9ca, type: 3}
+  m_Name: ES3GlobalReferences
+  m_EditorClassIdentifier: 
+  refId:
+    _Keys:
+    - {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+    - {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+    - {fileID: 10100, guid: 0000000000000000e000000000000000, type: 0}
+    - {fileID: 10906, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+    - {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+    - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+    - {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+    - {fileID: 11500000, guid: 0e65a9702ca1e2f4cbb5aa2e0d76e67b, type: 3}
+    - {fileID: 11400000, guid: a59c299c2683b724e81a0cb1858a75b0, type: 2}
+    - {fileID: 11500000, guid: 3c917b9f968069b47ba9d2d3d9ec1b3e, type: 3}
+    - {fileID: 11500000, guid: 9cfcc9ceea0bf419cb3bcaf548c2600d, type: 3}
+    - {fileID: 11500000, guid: 9107aee0ced90422da95f0b31680501f, type: 3}
+    - {fileID: 11500000, guid: 9a83408fcc9044c4fbc7e5d09a369ab6, type: 3}
+    - {fileID: 11400000, guid: b470ed0840713494daa43ceed61b0858, type: 2}
+    - {fileID: 11500000, guid: b8fca7921a7ca4646832d4b522c22011, type: 3}
+    - {fileID: 11500000, guid: 140ab0ad3ee337541ab75b96077ddecc, type: 3}
+    - {fileID: 11400000, guid: 6c126793bdc0058409b8bb20ade4bb68, type: 2}
+    - {fileID: 11500000, guid: 8125d0a4fbaea9a4cb05fa043df653fd, type: 3}
+    - {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    - {fileID: 2800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    - {fileID: 28268798066460806, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    - {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    - {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
+    - {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+    - {fileID: 2800000, guid: ee148e281f3c41c5b4ff5f8a5afe5a6c, type: 3}
+    - {fileID: 2100000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    - {fileID: 28684132378477856, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+    - {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    - {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+    - {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 10910, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+    - {fileID: 10904, guid: 0000000000000000f000000000000000, type: 0}
+    - {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    _Values: 4f83162e5267fa7003fb87c869a5c0054eb5486b35fb9b06505ca43528716d25ba7680f44a1b977caadf60b5b8d34b5235b2c4bd1522a04abf4dd2386fa4cd3c3580ae1a845bb34c0415774573d148362817d9896f097d529eec6da6ede9c44ab8f28a12c96b4e136fcad9e7cca79071a780289b2ea4f557d0bedec7b49e6b7995df471b811b9149180c9e2c1e8b797f047b4570d61424696b4ca0f2af33d7500a23ff82ca18e2671c3fc3a8353a77113c2228796cfdda703afd8810e65b4e7120fb81ec9de230067ae437e81259af5dc7d6446ddf18ed07fd70bcc7a0f34e40f151c931bb63af1dadd1ff783a0ea11fb2d527436043af07f28611d2d9979a6ccd88083f6f815d2b7b9d3ff2e68a3210860141e634c7e106daa2cf414b139e6ffe6583fde3783b77606b046ce51a4467988adedbb84edf39e1ad5734b93cde0b
